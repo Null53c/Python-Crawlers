@@ -5,10 +5,10 @@ I like building crawlers because sometimes people pay me? Here you'll find some 
 
 #### 4chan crawler 
 Crawls 4chan images and stores them in a NSFW file.  
-      1.`4chan-imgs.py`   
+        -> `4chan-imgs.py`   
   
 #### 85814.com crawlers  
-Gets the HD imgs multithread file by name sorting the best crawler ive yet built 
+Gets the HD imgs multithread file by name sorting the best crawler ive yet built  
         -> 1. `crawl_85841_images_optimized.py`       
 Was prototype for my masterpice above   
         -> 2. `crawl_85814_images.py`       
