@@ -16,9 +16,9 @@ Was prototype for my masterpice above
 #### whitelist_4_crawlers -> pretty self explanatory ip's that dont freak out being crawled and some that crawl. Your welcome. 
 
 #### mzitu.com crawlers -> I was going to be paid for this work but never got the second half of the payment so open sourcing I also got                             pretty carried away... I will list in order of code quality and results. 
-        -> `crawl_girl_images.py` 
-        -> crawl_mzitu_images_Model1_V1.py`  
-        -> `crawl_mzitu_images_Model1_V2.py`  
-        -> `crawl_mzitu_images_Model2.py`  
-        -> `crawl_mzitu_images_Model1_V2_Diff.py`  
+-> `crawl_girl_images.py`  
+-> `crawl_mzitu_images_Model1_V1.py`   
+-> `crawl_mzitu_images_Model1_V2.py`   
+-> `crawl_mzitu_images_Model2.py`    
+-> `crawl_mzitu_images_Model1_V2_Diff.py`    
         
