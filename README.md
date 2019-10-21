@@ -14,9 +14,12 @@ Gets the HD imgs multithread file by name sorting the best crawler ive yet built
 Was prototype for my masterpice above   
         -> `crawl_85814_images.py`       
   
-#### whitelist_4_crawlers -> pretty self explanatory ip's that dont freak out being crawled and some that crawl. Your welcome. 
+#### whitelist_4_crawlers 
+Pretty self explanatory ip's that dont freak out being crawled and some that crawl. Your welcome.  
 
-#### mzitu.com crawlers -> I was going to be paid for this work but never got the second half of the payment so open sourcing I also got                             pretty carried away... I will list in order of code quality and results. 
+#### mzitu.com crawlers
+I was going to be paid for this work but never got the second half of the payment so open sourcing I also got                             pretty carried away... I will list in order of code quality and results. 
+
 -> `crawl_girl_images.py`  
 -> `crawl_mzitu_images_Model1_V1.py`   
 -> `crawl_mzitu_images_Model1_V2.py`   
