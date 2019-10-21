@@ -1,8 +1,9 @@
 # Python-Crawlers
 I like building crawlers because sometimes people pay me? Here you'll find some of my projects and projects I was never paid out on and I'm therefore open-sourcing also some of them are creepy. Regardless enjoy and use!  
 
-#### disclaimer: Im not a pervert for crawling the contents i do they're simply more of a challenge to crawl because of all their "preventive" messures plus sometimes I get paid by chinese friends to do this and I have no shame. 
-
+--------------------------------------------------------------------------------------------------------
+#### Disclaimer: Im not a pervert for crawling the contents i do they're simply more of a challenge to crawl because of all their "preventive" messures plus sometimes I get paid by chinese friends to do this and I have no shame. 
+--------------------------------------------------------------------------------------------------------
 #### 4chan crawler 
 Crawls 4chan images and stores them in a NSFW file.  
         -> `4chan-imgs.py`   
