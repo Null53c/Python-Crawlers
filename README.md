@@ -15,7 +15,7 @@ Was prototype for my masterpice above
         -> `crawl_85814_images.py`       
   
 #### whitelist_4_crawlers 
-Pretty self explanatory ip's that dont freak out being crawled and some that crawl. Your welcome.  
+Pretty self explanatory. Your welcome.  
 
 #### mzitu.com crawlers
 I was going to be paid for this work but never got the second half of the payment so open sourcing I also got                             pretty carried away... I will list in order of code quality and results. 
